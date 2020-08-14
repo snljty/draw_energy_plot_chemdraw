@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CDXML
+ CreationProgram="ChemDraw"
+ Name="output.cdxml"
+>
+    <colortable>
+        <color r="1" g="1" b="1"/>
+        <color r="0" g="0" b="0"/>
+        <color r="1" g="0" b="0"/>
+        <color r="1" g="1" b="0"/>
+        <color r="0" g="1" b="0"/>
+        <color r="0" g="1" b="1"/>
+        <color r="0" g="0" b="1"/>
+        <color r="1" g="0" b="1"/>
+    </colortable>
+    <fonttable>
+        <font id="0" charset="iso-8859-1" name="Arial"/>
+    </fonttable>
+    <page>
+        <arrow
+         id="1"
+         FillType="None"
+         ArrowheadType="Solid"
+         Head3D="60.0 230.0 0"
+         Tail3D="80.0 230.0 0"
+        />
+        <t
+         id="2"
+         p="60.0 238.0"
+         LineHeight="auto"
+        >
+            <s font="0" color="0" size="8">17.0</s>
+        </t>
+        <arrow
+         id="3"
+         LineType="Dashed"
+         FillType="None"
+         ArrowheadType="Solid"
+         Head3D="80.0 230.0 0"
+         Tail3D="110.0 220.0 0"
+        />
+        <arrow
+         id="4"
+         FillType="None"
+         ArrowheadType="Solid"
+         Head3D="110.0 220.0 0"
+         Tail3D="130.0 220.0 0"
+        />
+        <t
+         id="5"
+         p="110.0 228.0"
+         LineHeight="auto"
+        >
+            <s font="0" color="0" size="8">18.0</s>
+        </t>
+        <arrow
+         id="6"
+         LineType="Dashed"
+         FillType="None"
+         ArrowheadType="Solid"
+         Head3D="130.0 220.0 0"
+         Tail3D="160.0 240.0 0"
+        />
+        <arrow
+         id="7"
+         FillType="None"
+         ArrowheadType="Solid"
+         Head3D="160.0 240.0 0"
+         Tail3D="180.0 240.0 0"
+        />
+        <t
+         id="8"
+         p="160.0 248.0"
+         LineHeight="auto"
+        >
+            <s font="0" color="0" size="8">16.0</s>
+        </t>
+        <arrow
+         id="9"
+         FillType="None"
+         ArrowheadType="Solid"
+         Head3D="10.0 250.0 0"
+         Tail3D="30.0 250.0 0"
+        />
+        <t
+         id="10"
+         p="10.0 258.0"
+         LineHeight="auto"
+        >
+            <s font="0" color="0" size="8">15.0</s>
+        </t>
+        <arrow
+         id="11"
+         LineType="Dashed"
+         FillType="None"
+         ArrowheadType="Solid"
+         Head3D="30.0 250.0 0"
+         Tail3D="60.0 270.0 0"
+        />
+        <arrow
+         id="12"
+         FillType="None"
+         ArrowheadType="Solid"
+         Head3D="60.0 270.0 0"
+         Tail3D="80.0 270.0 0"
+        />
+        <t
+         id="13"
+         p="60.0 278.0"
+         LineHeight="auto"
+        >
+            <s font="0" color="0" size="8">13.0</s>
+        </t>
+        <arrow
+         id="14"
+         LineType="Dashed"
+         FillType="None"
+         ArrowheadType="Solid"
+         Head3D="80.0 270.0 0"
+         Tail3D="160.0 300.0 0"
+        />
+        <arrow
+         id="15"
+         FillType="None"
+         ArrowheadType="Solid"
+         Head3D="160.0 300.0 0"
+         Tail3D="180.0 300.0 0"
+        />
+        <t
+         id="16"
+         p="160.0 308.0"
+         LineHeight="auto"
+        >
+            <s font="0" color="0" size="8">10.0</s>
+        </t>
+        <t
+         id="17"
+         p="10.0 600.0"
+         LineHeight="auto"
+        >
+            <s font="0" color="0" size="8">Stru1</s>
+        </t>
+        <t
+         id="18"
+         p="60.0 600.0"
+         LineHeight="auto"
+        >
+            <s font="0" color="0" size="8">Stru2</s>
+        </t>
+        <t
+         id="19"
+         p="110.0 600.0"
+         LineHeight="auto"
+        >
+            <s font="0" color="0" size="8">Stru3</s>
+        </t>
+        <t
+         id="20"
+         p="160.0 600.0"
+         LineHeight="auto"
+        >
+            <s font="0" color="0" size="8">Stru4</s>
+        </t>
+    </page>
+</CDXML>
+
+
+
